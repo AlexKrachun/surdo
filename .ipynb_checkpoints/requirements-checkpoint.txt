@@ -1,1 +1,9 @@
-venv
+jupyter
+moviepy==1.0.3
+pandas
+opencv-python
+torch
+torchvision
+torchaudio
+timm
+scikit-learn
